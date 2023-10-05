@@ -1,0 +1,20 @@
+https://run.mocky.io/v3/cb1cb314-2d65-4493-83b2-816f744bc8cc
+{
+    "FirstName" : "Mahender",
+    "Age" : 32,
+    "State" : "KA"
+  }
+
+  https://run.mocky.io/v3/42eb1d50-bae3-4d53-bdb2-d9f2529655e5
+  [
+    {
+      "FirstName": "Mahender",
+      "Age": 32,
+      "State": "KA"
+    },
+    {
+      "FirstName": "Mukesh",
+      "Age": 32,
+      "State": "Bhopal"
+    }
+  ]

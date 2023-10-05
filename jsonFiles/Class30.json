@@ -1,0 +1,43 @@
+[
+  {
+    "FirstName": "Mahender",
+    "LastName": "Prasad",
+    "Age": 32,
+    "emailId": "mahender@email.com"
+  },
+  {
+    "FirstName": "Mukesh",
+    "LastName": "Otwani",
+    "Age": 31,
+    "emailId": "Mukesh@email.com"
+  },
+  {
+    "FirstName": "Amod",
+    "LastName": "Prasad",
+    "Age": 30,
+    "emailId": "Amod@email.com"
+  },
+  {
+    "FirstName": "Virat",
+    "LastName": "Prasad",
+    "Age": 18,
+    "emailId": "Virat@email.com"
+  },
+  {
+    "FirstName": "Harman",
+    "LastName": "Sharma",
+    "Age": 19,
+    "emailId": "Harman@email.com"
+  },
+  {
+    "FirstName": "Rohit",
+    "LastName": "Sharma",
+    "Age": 32,
+    "emailId": "mahender@email.com"
+  },
+  {
+    "LastName": "Dhoni",
+    "Age": 15,
+    "emailId": "mahender@email.com"
+  }
+]

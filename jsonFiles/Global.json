@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "Name": "Mahender",
+    "MobNumber": 8723411111,
+    "Address": [
+      {
+        "City": "Jamshedpur",
+        "PinCode": 832404,
+        "State": "Jharkhand"
+      },
+      {
+        "City": "Bengaluru",
+        "PinCode": 560076,
+        "State": "Karnataka"
+      },
+      {
+        "City": "Newark",
+        "PinCode": 19713,
+        "State": "Delaware"
+      }
+    ],
+    "Country": [
+      "India",
+      "USA"
+    ],
+    "HasPrime": false,
+    "Services": [
+      {
+        "FavPlace": [
+          "Bengaluru",
+          "Goa",
+          "Jamshedpur",
+          "Andaman"
+        ]
+      },
+      {
+        "FavPlace": [
+          "NewYork",
+          "Virginia",
+          "Glassgow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Name": "Mukesh",
+    "MobNumber": 8723422222,
+    "Address": [
+      {
+        "City": "Bhopal",
+        "PinCode": 666404,
+        "State": "MP"
+      },
+      {
+        "City": "Bengaluru",
+        "PinCode": 560076,
+        "State": "Karnataka"
+      },
+      {
+        "City": "London",
+        "PinCode": 23222,
+        "State": "Manchester"
+      }
+    ],
+    "Country": [
+      "India",
+      "UK"
+    ],
+    "HasPrime": true,
+    "Services": [
+      {
+        "FavPlace": [
+          "Bengaluru",
+          "Kashmir",
+          "Bhopal"
+        ]
+      },
+      {
+        "FavPlace": [
+          "Leeds",
+          "Lords"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Name": "Amod",
+    "MobNumber": 8723433333,
+    "Address": [
+      {
+        "City": "Bhubhneshwar",
+        "PinCode": 333433,
+        "State": "Orissa"
+      },
+      {
+        "City": "Bengaluru",
+        "PinCode": 560076,
+        "State": "Karnataka"
+      },
+      {
+        "City": "Berlin",
+        "PinCode": 33333,
+        "State": "Brandenburg"
+      }
+    ],
+    "Country": [
+      "India",
+      "Germany"
+    ],
+    "HasPrime": false,
+    "Services": [
+      {
+        "FavPlace": [
+          "Bengaluru",
+          "Cuttack",
+          "Darjeeling"
+        ]
+      },
+      {
+        "FavPlace": [
+          "Berlin"
+        ]
+      }
+    ]
+  }
+]
